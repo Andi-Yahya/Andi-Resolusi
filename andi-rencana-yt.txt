@@ -3,6 +3,7 @@ Rencana Youtube Andy
 -bla bla bla
 wkwk wkwkw w wkwkwkw jss 
 -blabla bla
-_php_
-=ANGULAR_
-_React 
+-struktur bla bla bla   
+-menambahkan framework js bla vlal adsk
+_vue_
+_react_
