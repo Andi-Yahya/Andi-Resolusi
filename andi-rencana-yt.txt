@@ -6,3 +6,4 @@ wkwk wkwkw w wkwkwkw jss
 -struktur bla bla bla   
 -menambahkan framework js bla vlal adsk
 _vue_
+_react_
